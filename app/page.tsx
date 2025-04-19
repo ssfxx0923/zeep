@@ -421,7 +421,7 @@ export default function Home() {
       >
         本应用由ssfxx开发
         <br />
-        请负责任地使用，风险自负。
+        获取账号请联系QQ:2973847941
       </motion.p>
     </main>
   )
