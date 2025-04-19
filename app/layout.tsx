@@ -10,8 +10,8 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        <title>小米步数修改器</title>
-        <meta name="description" content="修改您的小米运动/小米健康步数" />
+        <title>Zeep步数修改器</title>
+        <meta name="description" content="修改您的Zeep运动/Zeep健康步数" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body>
